@@ -7,7 +7,7 @@
    -  Education: Undergraduate senior
    -  Major: Bioinformatics
    -  Email: xinxinliu1998@163.com                
---- 
+---
 ## Level 2 - Main courses
    -  Mathematical Sciences
       -  Mathematical analysis
@@ -38,12 +38,12 @@
        - Molecular network analysis
        - Structural informatics
        - Pharmacoinformatics    
----  
+--- 
 ##  Level 3 - Scientific research experience
    - [Systematic identification of lncRNA-based prognostic biomarkers associated with prognosis of colorectal cancer immunotherapy](./sub1.md)
    - [A New Stomatic DNA Copy Number Dosage-Sensitive Gene Screening Algorithm and its Application in Colorectal Cancer](./sub2.md)
    - [Identification and functional analysis of hypoxic related lncRNAs in pan-carcinoma](./sub3.md)    
----  
+---
 ##  Level 4 - Honors
    -  Learning
       -  2016-2017 national encouragement scholarship
