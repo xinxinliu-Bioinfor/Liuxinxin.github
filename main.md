@@ -6,9 +6,9 @@
    -  School: Harbin Medical University
    -  Education: Undergraduate senior
    -  Major: Bioinformatics
-   -  Email: xinxinliu1998@163.com
----
-##  Level 2 - Main courses
+   -  Email: xinxinliu1998@163.com 
+ ---
+## Level 2 - Main courses
    -  Mathematical Sciences
       -  Mathematical analysis
       -  Advanced algebra
@@ -38,7 +38,7 @@
        - Molecular network analysis
        - Structural informatics
        - Pharmacoinformatics
---- 
+ --- 
 ##  Level 3 - Scientific research experience
    - [Systematic identification of lncRNA-based prognostic biomarkers associated with prognosis of colorectal cancer immunotherapy](./sub1.md)
    - [A New Stomatic DNA Copy Number Dosage-Sensitive Gene Screening Algorithm and its Application in Colorectal Cancer](./sub2.md)
