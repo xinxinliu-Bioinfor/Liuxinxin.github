@@ -1,4 +1,6 @@
 # Self-introduction
+
+---
 ##  Level 1 - Basic information
    -  Name: Liu Xinxin
    -  Date of Birth:1998.03.16
