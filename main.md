@@ -3,8 +3,10 @@
 ---
 ##  Level 1 - Basic information
    -  Name: Liu Xinxin
-   -  Date of Birth:1998.03.16
    -  Gender: Female
+   -  Date of Birth: 1998.03.16
+   -  Nationality: The Han nationality
+   -  Policital status: Preparing party members
    -  School: Harbin Medical University
    -  Education: Undergraduate senior
    -  Major: Bioinformatics
@@ -44,7 +46,7 @@
  
 --- 
 ##  Level 3 - Scientific research experience
-   - [Systematic identification of lncRNA-based prognostic biomarkers associated with prognosis of colorectal cancer immunotherapy](./sub1.md)
+   - [Systematic identification of lncRNA biomarkers associated with prognosis of colorectal cancer immunotherapy](./sub1.md)
    - [A New Stomatic DNA Copy Number Dosage-Sensitive Gene Screening Algorithm and its Application in Colorectal Cancer](./sub2.md)
    - [Identification and functional analysis of hypoxic related lncRNAs in pan-carcinoma](./sub3.md)    
 
