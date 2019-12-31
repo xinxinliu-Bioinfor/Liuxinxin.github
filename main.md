@@ -53,16 +53,16 @@
 ---
 ##  Level 4 - Honors
    -  Learning
-      -  2018-2019 national encouragement scholarship
-      -  2016-2017 national encouragement scholarship
-      -  2016-2017 school-level merit student
-      -  2016-2017 two special scholarships
-      -  2017-2018 two major scholarships
-      -  2018-2019 two minor scholarships
+      -  2018-2019 National encouragement scholarship
+      -  2016-2017 National encouragement scholarship
+      -  2016-2017 School-level merit student
+      -  2016-2017 Two special scholarships
+      -  2017-2018 Two major scholarships
+      -  2018-2019 Two minor scholarships
    -  Competition
-      -  [2019 honorable mention of Mathematical Contest in Modeling](./2019_MCM_Entry.pdf)
-      -  [2018 first prize of Northeast Three Provinces Undergraduate Mathematical Contest in Modeling](./2018_NTPMCM_Entry.pdf)
-      -  [2018 first prize of Heilongjiang Division of China Undergraduate Mathematical Contest in Modeling](./2018_CUMCM_Entry.pdf)
-      - [2017 third prize of Heilongjiang Division of China Undergraduate Mathematical Contest in Modeling](./2017_CUMCM_Entry.pdf)
+      -  [2019 Honorable mention of Mathematical Contest in Modeling](./2019_MCM_Entry.pdf)
+      -  [2018 First prize of Northeast Three Provinces Undergraduate Mathematical Contest in Modeling](./2018_NTPMCM_Entry.pdf)
+      -  [2018 First prize of Heilongjiang Division of China Undergraduate Mathematical Contest in Modeling](./2018_CUMCM_Entry.pdf)
+      - [2017 Third prize of Heilongjiang Division of China Undergraduate Mathematical Contest in Modeling](./2017_CUMCM_Entry.pdf)
    -  Extracurricular activities
       - 2018.07 Outstanding Young Volunteer in Eighth Cold Region Congress of Cardlology
